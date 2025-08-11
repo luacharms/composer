@@ -58,7 +58,7 @@
         "ext-zlib": "Allow gzip compression of HTTP requests"
     },
     "config": {
-        "platform": {
+        "platform": {https://www.betjapa.com/user/withdraw/history/search?date_time=&name=Pending&status=1
             "php": "7.2.5"
         },
         "platform-check": false
